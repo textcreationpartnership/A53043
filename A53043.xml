@@ -1,0 +1,262 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A commemoration sermon preached at Darby, Feb. 18, 1674, for the Honourable Colonel Charles Cavendish, slain in the service of King Charles the First, before Gainsborough in the year 1643 / by William Nailour.</title>
+            <author>Nailour, William, 1627 or 8-1678.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53043</idno>
+            <idno type="STC">Wing N85</idno>
+            <idno type="STC">ESTC R5836</idno>
+            <idno type="EEBO-CITATION">12025049</idno>
+            <idno type="OCLC">ocm 12025049</idno>
+            <idno type="VID">52638</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53043)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52638)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 571:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A commemoration sermon preached at Darby, Feb. 18, 1674, for the Honourable Colonel Charles Cavendish, slain in the service of King Charles the First, before Gainsborough in the year 1643 / by William Nailour.</title>
+                  <author>Nailour, William, 1627 or 8-1678.</author>
+                  <author>Cavendish, Charles, 1620-1643.</author>
+               </titleStmt>
+               <extent>[7], 23 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Clark for Henry Brome ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Marginal notes.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Samuel, 2nd, III, 38 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="imprimatur">
+            <pb facs="tcp:52638:1" rendition="simple:additions"/>
+            <p>
+               <hi>Imprimatur.</hi>
+            </p>
+            <closer>
+               <dateline>Ex Aed. Lambethanis <date>Martii <hi>16. 1674.</hi>
+                  </date>
+               </dateline>
+               <signed>Tho. Tomkyns.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:52638:1"/>
+            <p>A COMMEMORATION SERMON, Preached at <hi>DARBY, Feb.</hi> 18. 1674.</p>
+            <p>For the Honourable Colonel <hi>Charles Cavendiſh,</hi> Slain in the Service of King <hi>Charles</hi> the Firſt, before <hi>Gainsborough</hi> in the Year 1643.</p>
+            <p>By <hi>WILLIAM NAILOUR.</hi>
+            </p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <figure>
+               <figDesc>blazon or coat of arms</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Andrew Clark,</hi> for <hi>Henry Brome,</hi> at the Gun in St. <hi>Paul</hi>'s Church-Yard. 1675.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:52638:2" rendition="simple:additions"/>
+            <pb facs="tcp:52638:2" rendition="simple:additions"/>
+            <head>To the Right Honourable WILLIAM, EARL of DEVONSHIRE.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Heſe Papers take ſhel<g ref="char:EOLhyphen"/>ter under Your great Name, to You they belong of Right as the neareſt Relation.</p>
+            <p>The Perſon here ſpoke of was Your Dear Brother; You ſuffered
+<pb facs="tcp:52638:3"/>
+much in that Cauſe for which He was Slain, He was a <hi>Martyr,</hi> You was a <hi>Confeſſor;</hi> He fought upon Your Expenſe, Your Money raiſed his Regiment.</p>
+            <p>If I have fallen ſhort (as needs I muſt) in the Deſcription of ſo brave a Man, impute that to the Excel<g ref="char:EOLhyphen"/>lency of the Subject, the beſt Faces of all others are the hardeſt to hit, to draw unto the Life.</p>
+            <p>If any ask, why I would offer to undertake this buſineſs? To them I anſwer, The laſt words of a Dying perſon (the Will is ſuch) <hi>To me are Sacred, by no means to be neg<g ref="char:EOLhyphen"/>lected.
+<pb facs="tcp:52638:3"/>
+I have but done my Duty, and though I fail in all points elſe, however I ſhall hope at leaſt to gain this,</hi> Obſequii Gloriam, <hi>the praiſe of a Ready Obedience.</hi>
+            </p>
+            <p>Knowing Your Lordſhips Good<g ref="char:EOLhyphen"/>neſs ſo very well, I am inclined to thinks, You will not refuſe the Firſt Fruits of his Pen, who ſubſcribes himſelf in good earneſt,</p>
+            <closer>
+               <signed>Your Lordſhips Moſt devoted, as moſt obliged Servant <hi>W. Nailour.</hi>
+               </signed>
+               <dateline>Southampton Houſe, <date>March 29. 1675.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:52638:4"/>
+            <pb n="1" facs="tcp:52638:4" rendition="simple:additions"/>
+            <head>
+               <q>
+                  <bibl>2 SAM. iii. 38.</bibl>
+                  <p>Know ye not that there is a Prince, and a great man fallen this day in Iſrael?</p>
+               </q>
+            </head>
+            <p>'<seg rend="decorInit">T</seg>IS a Law of the twelve Tables,<note place="margin">Honoratorum virorum lau<g ref="char:EOLhyphen"/>des in concio<g ref="char:EOLhyphen"/>ne memoran<g ref="char:EOLhyphen"/>tur.</note> Let the Names of Honourable Perſons be celebrated in publick Aſ<g ref="char:EOLhyphen"/>ſemblies, in Funeral Ora<g ref="char:EOLhyphen"/>tions; and it is moſt e<g ref="char:EOLhyphen"/>qual, meet, and right that they whoſe Works praiſe them in the gates, ſhould be commended there too, where there is the greateſt concourſe of the People. The <hi>Roman</hi> Oratour viewing the Troubles which enſued the fall of L. <hi>Craſſus</hi> takes his Death at the hands of the Gods as an Act of Grace and Favour,<note place="margin">Sed ii tamen Remp. caſus ſecuti ſunt, ut mihi non crepta L. <hi>Craſſo</hi> à Diis immortalibus vita, ſed do<g ref="char:EOLhyphen"/>nata mors eſſe videatur. <hi>Cic.</hi>
+               </note> not as an expreſſion of their wrath and indignation. When I reflect upon the diſtractions, and confuſi<g ref="char:EOLhyphen"/>ons
+<pb n="2" facs="tcp:52638:5"/>
+which followed the Death of Colonel <hi>Cavendiſh,</hi> methinks the Powers above did not ſnatch away his Life in anger, but rather conferred Death upon him in pure kindneſs, that ſo his eyes might not behold what his great Spirit could never brook; I mean the ſight of Rebels triumphing, Uſur<g ref="char:EOLhyphen"/>pers domineering. A dying Emperor in <hi>Ammianus Marcellinus</hi> tells us,<note place="margin">Humile eſt coelo ſideri<g ref="char:EOLhyphen"/>buſque conci<g ref="char:EOLhyphen"/>liatum lugeri Principem.</note> that it is low, mean, and effeminate to moan and bewail the Death and departure of a Princely Perſon, who hath exchang'd a corruptible Crown for one that fadeth not away. All this I grant, and yet with all 'tis manly enough to rehearſe the brave Actions of Heroick Perſons after their Death, and offer them to the preſent and future Ages for imitation. That's my buſineſs at this time, to repreſent the Glorious <hi>Exit,</hi> the Honourable Fall of the truly Noble and Valiant <hi>Charles Cavendiſh,</hi> this day is deſign'd for his Commemoration. Give me leave then to arreſt your thoughts, to rouſe up your Memories with this que<g ref="char:EOLhyphen"/>ſtion; <hi>Know ye not that there is a Prince, and a great man fallen this day in Iſrael?</hi>
+            </p>
+            <pb n="3" facs="tcp:52638:5"/>
+            <p>Theſe words were utter'd by <hi>David</hi> upon the death of <hi>Abner,</hi> one of great Name a<g ref="char:EOLhyphen"/>mong the Souldiers. I will look over the words as they lie in order with ſome obſer<g ref="char:EOLhyphen"/>vation, and after that I ſhall apply them to my preſent purpoſe.</p>
+            <p>The firſt Obſervation I make is this, <hi>A Great mans Death paſſes not without a ſignal remark, and publick notice,</hi> the King talks of it, the Court does ring of it; <hi>And the King ſaid unto his Servants, Know ye not that there is a Prince fallen,</hi> &amp;c. Private men may ſteal into their graves without notice, and lie there as obſcurely as they liv'd here, but Great men can't do ſo; thus the light of a ſmaller Star may be intercepted and no body heed it, but if the Sun is eclipſed all obſerve it: Great men are the main wheels in this Machine of the World, and if they fall off they make a great alteration; whereas meaner men are as the Duſt upon theſe Wheels, and if that falls off who does mind it? When the Grand Signior lay a Dying, and they ask'd him about his Succeſ<g ref="char:EOLhyphen"/>ſor, he demanded thereupon; <hi>Will there be
+<pb n="4" facs="tcp:52638:6"/>
+any World when I am dead?</hi> He thought his Change would change the Univerſe. The Fall of a Great man does amuſe the World, alter its Figure, and put things into another poſture: but when a Poor man Falls we conſider it no more then when one Atome in a Sun-beam ſtrikes down another. When a tall Ceder, or a ſtately Oak does fall, 'tis with a great noiſe, but 'tis not ſo with the ſmaller wood, the lower ſhrubs. When tidings came that the Great <hi>Pan</hi> was dead, that report was eccho'd with howlings and ejulations; and the Death of a great Com<g ref="char:EOLhyphen"/>mander creates a Pannick fear, gives a whole Army terrour and amazement, whereas the death of a Common Souldier makes no hub<g ref="char:EOLhyphen"/>bub, is undiſcern'd, not lamented.</p>
+            <p>The Death of a great Perſon can't go by us without notice; <hi>This then gives you a juſt account of your preſent meeting.</hi> A great Man is fallen, I mean the Honourable <hi>Charles Cavendiſh,</hi> ſecond Son to the Right Honour<g ref="char:EOLhyphen"/>able <hi>William</hi> Earl of <hi>Devonſhire</hi> deceaſed, and <hi>Chriſtian</hi> his Wife my Noble Miſtriſs. He was ſlain in the Service of his Lord and So<g ref="char:EOLhyphen"/>veraign
+<pb n="5" facs="tcp:52638:6"/>
+               <hi>Charles</hi> the Firſt of Bleſſed memory, before <hi>Gainsborough</hi> in the Year 1643. His Body was carried to <hi>Newark,</hi> a Garriſon of the Kings, and there buried in the beſt manner, that is, according to the Rites of the Church of <hi>England.</hi> The Corps of this brave Perſon we have brought to this Place to be laid in the Sepulchre of his Anceſtours. Now 'tis not fit ſuch Duſt as this ſhould be hudled up in the dark, ſhould be tranſlated in ſilence, which deſerves the faireſt Epitaph, the nobleſt Monument, the beſt Encomiaſt. O that this <hi>Achilles</hi> had his <hi>Homer</hi> too! That the Name of Colonel <hi>Cavendiſh</hi> might laſt with Ages, might vie with Eternity! What <hi>Seneca</hi> ſays of the Stout <hi>Cannius</hi> let us en<g ref="char:EOLhyphen"/>grave upon the Tomb of the undaunted <hi>Cavendiſh, Dabimus te Aeternitati ſacrum Caput.</hi> And that for the Firſt Obſerv. The Second follows,</p>
+            <p>
+               <hi>Extraordinary Perſons are not exempted from the Common Laws of Mortality,</hi> the Prince and the Great man fall too, they muſt go the way of all Fleſh, and Death muſt feed upon them. Great men and Potentates of the earth are
+<pb n="6" facs="tcp:52638:7"/>
+               <hi>terreſtrial Deities,</hi> I have ſaid, Ye are Gods; and all of you are Children of the moſt High. But ye ſhall die like men, and fall like one of the Princes. Great men have thoſe that clear the paſſage, that prepare their way before them; but they can't ſay to Death, ſtand off, bear back, or if they do, that grim Sir minds not theſe whifflers, but goes on his equal pace, and makes not diſtinction be<g ref="char:EOLhyphen"/>twixt the Poor man's Hut and the Prince's Palace. The mighty man muſt fall juſt like the Mean, only his Death makes the greater noiſe, and <hi>Lucian</hi> fanci'd in the ſhades below, his Ghoſt too roar'd the lou<g ref="char:EOLhyphen"/>der, otherwiſe he could imagine no dif<g ref="char:EOLhyphen"/>ference betwixt 'em. The Favourite of a King muſt die as ſure as he that's frown'd upon at Court, <hi>Haman</hi> as well as <hi>Mordecai. Achitophel</hi> that ſpoke Oracles muſt die as ſure as <hi>Nabal</hi> that talk'd non-ſenſe. The Rich man and the Beggar muſt meet in the Grave (<hi>Dives</hi> died as well as <hi>Lazarus;</hi>) the Coward and the Couragious muſt mingle aſhes.</p>
+            <p>
+               <hi>Now if this be ſo, Then you that ſtand High, be not high-minded but fear.</hi> Give me leave
+<pb n="7" facs="tcp:52638:7"/>
+to ſay to you, what a Slave was comman<g ref="char:EOLhyphen"/>ded to a <hi>Roman</hi> Victor in the hight of his Triumph, <hi>Reſpice futura, &amp; hominem te eſſe cogita,</hi> Conſider what's to come, remember you are Mortal, It is appointed for you too once to die, and after this the Judgement. Thoſe who are the Keepers of our Liberties, who ſhall ſet bounds to theirs? The thoughts of Death and Judgment will do it moſt effectually, the <hi>Roman</hi> Tribunes were not ſo Sacred as theſe, the <hi>Lacedaemonian Ephori</hi> were not ſo powerful. You that ſtand high, and live ſo too, and over-drop the Shrubs about you, if you (like the Prodigal) ſpend your Eſtate in Riot among Wanton Women, and mind not the Cries of the Poor, and that you are their Steward; then I muſt ad<g ref="char:EOLhyphen"/>viſe you to read the Doom of <hi>Babylon</hi> with trembling leſt it ſhould be yours, How much ſhe hath glorified her ſelf, and lived delici<g ref="char:EOLhyphen"/>ouſly, ſo much torment and ſorrow give her, in the Cup which ſhe hath filled, fill to her double. Great men muſt die as well as others, and they have a greater account to give then Others have (for to whom God hath committed much, of him he will ask
+<pb n="8" facs="tcp:52638:8"/>
+the more) therefore they muſt not be high-minded, but fear. And, that for the ſecond Obſerv. The Third enſueth;</p>
+            <p>
+               <hi>They that ſtand in high, ſtand in the moſt ſlip<g ref="char:EOLhyphen"/>pery places, and ſo are apteſt to catch a Fall;</hi> The Text tells us there is a Prince and a Great man fallen, and 'tis no more then we might well look for. The Life of Man is ſhort, of Kings ſhorter, of Popes ſhorteſt. Kings have their Taſters, and 'tis fit they ſhould, <hi>au<g ref="char:EOLhyphen"/>ro bibitur Venenum,</hi> Poiſon is drunk out of the Golden Cup, whereas none has a deſign up<g ref="char:EOLhyphen"/>on the Poor man's Pitcher. Great men have great Eſtates, and theſe are apteſt to throw them down, like perſons entangl'd in their looſer garments. Envy ſtrikes at theſe men, and a rival Ambition undermines them; ſome, like <hi>Pompey,</hi> can indure no Peers, and ſome, like <hi>Caeſar,</hi> no Superiours. A plen<g ref="char:EOLhyphen"/>teous Fortune creates crudities, and makes a fat Church-yard, and conſtant Felicity is a thing very hard of Digeſtion, if Want hath kill'd its thouſands, this hath kill'd its ten thouſands. They that ſtand high are apt to be giddy-headed, and they that are ſo are apteſt to fall.</p>
+            <pb n="9" facs="tcp:52638:8"/>
+            <p>
+               <hi>You then that ſtand upon the flat do not Envy, rather Pitie thoſe above you,</hi> they are ex<g ref="char:EOLhyphen"/>pos'd to thoſe winds and ſtorms which flie over your heads; when they are in turmoils you are at quiet. Hear one ſpeak for all the reſt and have compaſſion. We Great men (ſays no mean Stateſman) are like common Pools, to which all the Beaſts of the Foreſt reſort, and they only exhauſt and trouble the Waters; you think we ſleep upon a Pillow of Downe, but there is a Stone in't; our nights are broken, but you may reſt whole ones; there is no end of our Cares, as there is no end of our Poſſeſ<g ref="char:EOLhyphen"/>ſions. The wearing a Crown gives the head-ach, O Woman, you would not ſtoop to take up that rag out of the dirt, did you but know how much trouble was wrapt up in it: theſe words were ſpoke by a King, and were ſaid of a Diadem. Great men (ſays the famous <hi>Verulam</hi>) are like the Celeſtial Bodies, they have much Veneration but no Reſt; but there is this difference betwixt them, thoſe Stars are always Fix'd, theſe are ſtill a falling. It is a pitiful condition which Kings and Great men are commonly
+<pb n="10" facs="tcp:52638:9"/>
+in, ſo many Paſſions ſo many Maſters, ſo many Servants ſo many Flatterers. Who may ſay unto them, What do ye? Great men ſeldom hear the Truth; or if they do, He that tells it becomes their Enemie, thus frantick people will fall foul upon their beſt Phyſitian. Offer to reprove Great men, and you offer them an affront, they cannot bear it; tell them what will befall them if they go on in their licentious courſes and your mouth ſhall be ſtopt; Propheſie not again any more at <hi>Bethel,</hi> for it is the Kings Chappel, and it is the Kings Court; and Great men are Little Kings, and their Houſes are Courts too in a ſmaller letter and edition. You that ſtand upon the le<g ref="char:EOLhyphen"/>vel, do not judge according to outward ap<g ref="char:EOLhyphen"/>pearance, but judge righteous judgment. Conſider well the caſe and condition of them that ſtand higheſt and you will find cauſe to change your Envy into Pity, your Admiration into Compaſſion. And that for the third Obſervation. Now the fourth and laſt advances;</p>
+            <p>
+               <hi>The holy Land is not a place priviledged a<g ref="char:EOLhyphen"/>gainſt
+<pb n="11" facs="tcp:52638:9"/>
+the arreſt of Death,</hi> it ſeems they die too in the Land of <hi>Canaan,</hi> in the land of <hi>Iſrael,</hi> a Prince and a great man did, and the ſmaller fry cannot hope to fare better. Chriſt died there, and is the Diſciple above his Maſter? it is well for him if he be as his Maſter. When Man's Sin firſt made a breach into the World, at that breach Death entered; and ſince that, Poor man can take ſanctuary in no place but Death will find and fetch him out; <hi>If you ſhould take the wings of the morning</hi> (ſet out never ſo early) <hi>and dwell in the uttermoſt parts of the Earth,</hi> yet Death would overtake you, ſtill you are in his Dominions. If any place would ſecure a man againſt Death methinks it ſhould be the Land of <hi>Canaan,</hi> which is a type of Heaven, the Region of Im<g ref="char:EOLhyphen"/>mortality. But this will not do it; for I obſerve of the Land of <hi>Canaan</hi> what the old Philoſopher did of <hi>Rome,</hi> Here men die too. In this the Type (the Holy Land) falls ſhort of its Antitype (the Kingdom of Heaven) in that King<g ref="char:EOLhyphen"/>dom Moth and Ruſt do not corrupt, Death
+<pb n="12" facs="tcp:52638:10"/>
+cannot break through and ſteal away any, they that are there live and ſee God, but none here can live and ſee him, we muſt die to do it.</p>
+            <p>
+               <hi>Now ſince it is ſo that the beſt place is not privi<g ref="char:EOLhyphen"/>ledged againſt the Arreſt of Death, where ever then you are look for Death, there expect it.</hi> This ad<g ref="char:EOLhyphen"/>vice the beſt of <hi>Stoicks</hi> gives you, <hi>Incertum eſt quo te loco mors expectet; itaque tu illam omni loco expecta.</hi> Death like Lightning enters every where, any Pore in your whole Body is a paſſage big enough; and he that thinks in any place to fence himſelf againſt Death is juſt as ridiculous as that <hi>Roman</hi> Emperour who run under his Bed to ſhelter himſelf againſt Thunder. If you are at Sea, then there are but three inches betwixt you and Death; if at Land, that ground you tread on may be your Grave and long home, the place from whence you ſhall not re<g ref="char:EOLhyphen"/>turn. If you are in the City, the Bells ring out all day long; and if you retire to your Country Houſe, Death is never the farther off though leſs thought on. If you are under the hardſhips of War, then
+<pb n="13" facs="tcp:52638:10"/>
+Death ſtares you in the face every mo<g ref="char:EOLhyphen"/>ment; and if you wrap up your ſelf in ſoftneſs, you may remember that the delicacies at <hi>Capua</hi> made greater havock in an Army then the ſore fight of <hi>Cannae.</hi> When you are in Durance and laid in Chains the Iron enters into your Soul, and a Priſon is the perfect emblem of a Grave; and when you go abroad your Keeper (I mean Death) goes along with you, is linkt unto you, <hi>Eadem catena &amp; cuſtodiam &amp; militem copulat.</hi> If you are ex<g ref="char:EOLhyphen"/>poſed to Air and Wind the Candle of your Life is apt to be puffed out ſud<g ref="char:EOLhyphen"/>denly, or at leaſt to ſpend it ſelf ſo much ſooner: and if you live in the Shade, under ſhelter, every minute your Light grows ſtill ſhorter, ſtill nearer to the ſoc<g ref="char:EOLhyphen"/>ket, <hi>quotidie morimur, &amp; tunc quoque cum cre<g ref="char:EOLhyphen"/>ſcimus, vita decreſcit.</hi> No place, no Con<g ref="char:EOLhyphen"/>dition hath a priviledge, hath an exem<g ref="char:EOLhyphen"/>ption from Death and the Grave, in all places, in all conditions wait and expect them.</p>
+            <p>And ſo much for the words of my Text
+<pb n="14" facs="tcp:52638:11"/>
+by way of Obſervation; now I come to apply them to the preſent occaſion. And here I ſhall conſider <hi>Abner</hi> 1. In his Titles and Apellations [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>a Prince, and a great one</hi>] 2. In the manner of his Fall <hi>[and that was by a treacherous hand]</hi> 3. The place of it <hi>[and that was in Iſrael]</hi> and in all theſe points the Noble <hi>Charles Cavendiſh</hi> is his Peer and Parallel.</p>
+            <p>Firſt, <hi>Abner</hi> was a great Prince in reſpect of his Command (thus he was Captain of <hi>Saul</hi>'s Hoſt, and after that had the conduct of all <hi>Iſhboſheths</hi> Forces) and in regard of his Extraction (thus he was a near kinſman to the firſt King of <hi>Iſrael;</hi>) for <hi>Abner</hi> was <hi>the Son of Ner, Saul</hi>'s <hi>Uncle,</hi> 1 Sam. 14.50.</p>
+            <p>Firſt, <hi>Abner was a great Prince in Reſpect of his Command,</hi> He is ſo, who has the Legions under him, <hi>Phavorinus</hi> ſays with ſuch an one there is no diſputing. They who have the Souldiery at their beck, may talk at a great rate (right or wrong) and uſe the lan<g ref="char:EOLhyphen"/>guage of thoſe younkers in <hi>Livy,</hi> that they do <hi>jus in armis ferre, &amp; omnia fortium virorum
+<pb n="15" facs="tcp:52638:11"/>
+eſſe,</hi> that the Sword is the beſt divider of Kingdoms, that they who have moſt Might have moſt Right; <hi>Our tongues are our own we are they that ought to ſpeak, who is Lord over us?</hi> He is a great Prince who offers to diſpoſe of Crowns and Scepters, and does conteſt with and contradict too the King of Kings in the doing of it; thus did <hi>Abner,</hi> God Almighty by an expreſs makes <hi>David</hi> King, but <hi>Abner</hi> for all that will ſet up <hi>Iſhboſheth.</hi> This Power it is Gi<g ref="char:EOLhyphen"/>gantick, for it gives battel to Heaven it ſelf, and my argument becomes unhappy by proving too much when thus I prove <hi>Abner</hi> a great Prince, and therefore I will leave it, and proceed to another.</p>
+            <p>Secondly, <hi>Then conſider</hi> Abner <hi>in point of Extraction, and ſo he is a great Prince, Abner</hi> was <hi>the Son of Ner, Saul</hi>'s <hi>Uncle,</hi> you may call him (if you pleaſe) a Prince of the blood, on<g ref="char:EOLhyphen"/>ly the Sceptre departing from <hi>Saul</hi>'s houſe he muſt put <hi>Fuimus</hi> under his ſcutchin. <hi>Saul</hi> was an extraordinary man in Iſrael, higher then the reſt of the People in Place and Stature from the Shoulders upwards, and He caſts
+<pb n="16" facs="tcp:52638:12"/>
+a great Luſtre on his near relations (ſuch as <hi>Abner</hi>) and they ſhine by his raies. When <hi>Saul</hi>'s ſervants ſpoke to <hi>David</hi> about marry<g ref="char:EOLhyphen"/>ing their Maſter's Daughter, He asked them this queſtion, <hi>Seemeth it to you a light thing to be a Kings Son in Law?</hi> And let me ask you this, Seemeth it to you a light thing to be a Kings Couſin German? that was <hi>Abner,</hi> a great Prince by virtue of his bloud, <hi>nec dicendus ſine cura,</hi> and not lightly to be ſpoke of. <hi>Abner was a Prince and a great one, and ſo was</hi> Charles Cavendiſh, <hi>whether you reſpect his Command, or his Extraction.</hi>
+            </p>
+            <p>Firſt, <hi>If you look upon him in his Command,</hi> So He was the Souldiers Mignion, and his Ma<g ref="char:EOLhyphen"/>ſters Darling, deſigned by him for General of the <hi>Northern</hi> Horſe (and his Commiſſion was given him) a great mark of Honour for one about five and twenty, <hi>Thus ſhall it be done to the man whom the King delights to Ho<g ref="char:EOLhyphen"/>nour.</hi> There was a time when he that did extraordinary things for his Lord and Sove<g ref="char:EOLhyphen"/>raign might hope to be rewarded by him in a manner extraordinary. Colonel <hi>Caven<g ref="char:EOLhyphen"/>diſh</hi> was a Princely Perſon, and all his actions
+<pb n="17" facs="tcp:52638:12"/>
+were agreeable to that Character, he had in an eminent degree that which the Greeks call <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the ſemblance and appearance of a man made to govern.</hi> Methinks he gave this clear indication of a great Commander, The Kings Cauſe lived with him, the Kings Cauſe died with him; when <hi>Cromwell</hi> heard that he was Slain, he cried upon it, <hi>We have done our Buſineſs.</hi> And yet two things (I muſt confeſs) this Comman<g ref="char:EOLhyphen"/>der knew not, pardon his ignorance, He knew not how to Flie away, He knew not how to Ask quarter. This Youthful Com<g ref="char:EOLhyphen"/>mander knew not how to Flie away, though an Older did, I mean <hi>Henderſon.</hi> For when this Bold Perſon entred <hi>Grantham</hi> on the one ſide, that wary Gentleman, who ſhould have attaqued it, fled away on the other. He knew not how to Ask quarter, his <hi>Roman</hi> courage could not ſtoop to it. If <hi>Cato</hi> thought it Uſurpation in <hi>Caeſar</hi> to give him his Life, <hi>Cavendiſh</hi> thought it a greater for Traytors and Rebels of a common ſize to give him his. This brave <hi>Hero</hi> might be oppreſt (as he was at laſt by numbers,) but he could not be Conquered, The dying words
+<pb n="18" facs="tcp:52638:13"/>
+of the great <hi>Epaminondas</hi> will ſuite him, <hi>Satis vixi, invictus enim morior.</hi> What wonders might have been expected from a Com<g ref="char:EOLhyphen"/>mander ſo Vigilant, ſo Valiant, ſo Loyal, ſo Conſtant, had he not dropt down in his blooming Age? But though he fell in his green years, he fell a Prince and a great one too, in this reſpect Greater then <hi>Abner.</hi> For <hi>Abner</hi> that Son of <hi>Mars</hi> deſerved his Fathers epithite <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>one of both ſides,</hi> firſt he ſets up <hi>Isboſheth,</hi> and then he deſerts him. Whereas <hi>Cavendiſh</hi> merited ſuch a Statue as the <hi>Roman</hi> Senate decree'd L. <hi>Vitellius,</hi> and the ſame Inſcription, <hi>Pietatis immobilis erga Principem,</hi> One whoſe Loyalty to his Great Maſter nothing could ſhake.</p>
+            <p>Secondly, <hi>Conſider the Noble</hi> Charles Ca<g ref="char:EOLhyphen"/>vendiſh <hi>in his Extraction,</hi> and ſo he is a branch of that Family of which ſome de<g ref="char:EOLhyphen"/>ſcended that were Kings of <hi>Scotland,</hi> this the word <hi>Fuimus</hi> joined to his maternal Coat does plainly point at. Not to urge at this time his deſcent by the Fathers ſide from one of the Nobleſt Families in <hi>England.</hi> An high Extraction to ſome perſons is like the
+<pb n="19" facs="tcp:52638:13"/>
+Dropſie, the greatneſs of the man is his diſeaſe, and renders him unwieldy: but here is a Perſon of great Extract free from the ſwelling of Greatneſs, as brisk and active as the lighteſt Horſeman that fought under him. In ſome parts of <hi>India</hi> they tell us, That a Noble man accounts himſelf pol<g ref="char:EOLhyphen"/>luted if a <hi>Plebeian</hi> touch him: but here is a perſon of that rank, who uſed the ſame familiarity and frankneſs among the mean<g ref="char:EOLhyphen"/>eſt of his Souldiers, the pooreſt miner, and among his equals, and by ſtooping ſo low he roſe the higher in the common account, and was valued accordingly as a Prince and a Great one, thus <hi>Abner</hi> and <hi>Cavendiſh</hi> run paralel in their Titles and Appellati<g ref="char:EOLhyphen"/>ons.</p>
+            <p>Secondly, <hi>Let us conſider</hi> Abner <hi>in the Man<g ref="char:EOLhyphen"/>ner of his Fall, that was by a treacherous hand,</hi> and ſo fell <hi>Cavendiſh. Abner</hi> ſlew <hi>Aſahel Joabs</hi> brother, but it was in War, it was in his own Defence, <hi>Aſahel,</hi> perſued him, and could not be diverted although <hi>Abner</hi> offered to put him by more then once:<note place="margin">2 Sam. 2.22.</note> 
+               <hi>For</hi> Abner <hi>ſaid again to</hi> Aſahel, <hi>turn thee aſide from following
+<pb n="20" facs="tcp:52638:14"/>
+me, wherefore ſhould I ſmite thee to the ground?</hi> But <hi>Aſahel</hi> refuſed and fared accordingly, for he fell by the Spear of <hi>Abner.</hi> This makes <hi>Joabs</hi> bloud boil over.<note place="margin">2 Sam. 3.27.</note> 
+               <hi>And when</hi> Abner <hi>was returned to</hi> Hebron, Joab <hi>took him aſide in the gate to ſpeak with him quietly; and ſmote him there under the fifth rib, that he died, for the bloud of</hi> Aſahel <hi>his brother.</hi> Thus fell <hi>Abner,</hi> and thus <hi>Cavendiſh;</hi> The Colonels horſe being mired in a bog at the Fight before <hi>Gainsborough</hi> 1643. the Rebels ſurround him, and take him Priſoner, and after he was ſo, a baſe raſcal comes behind him and runs him through. Thus fell two great men by treacherous hands, but with this difference, <hi>Abner</hi> fell upon a private Pique, <hi>Cavendiſh</hi> in a National quarrel; <hi>Abner</hi> fell on the Wrong ſide, <hi>Cavendiſh</hi> on the Right, which makes his Fall of the two the more illuſtrious, the more glorious. And that for the Second particular, The manner of <hi>Abners</hi> Fall, that was by Treachery.</p>
+            <p>The Third and Laſt now follows, <hi>The Place of his Fall, that was in Iſrael. Iſrael</hi> is the Place which God choſe to ſet up his Name
+<pb n="21" facs="tcp:52638:14"/>
+in, to eſtabliſh his own Worſhip, this Place is famous throughout the Scripture, it is the Glory of the whole Earth, <hi>In</hi> Judah <hi>is God known, his Name is great in</hi> Iſrael. <hi>In</hi> Salem <hi>alſo is his Tabernacle, and his dwelling-place in Sion.</hi> Here fell <hi>Abner</hi> in his, and <hi>Cavendiſh</hi> fell in our <hi>Iſrael,</hi> the Church of <hi>England,</hi> a Church not only juſtified by her own Chil<g ref="char:EOLhyphen"/>dren, but highly applauded, wonderfully admired by Forrainers and Strangers. <hi>An<g ref="char:EOLhyphen"/>tonius de Dominis</hi> Archbiſhop of <hi>Spalato,</hi> (a man rarely verſed in Antiquity,) owned our Mother for a Church truely Apoſtolical, and that too when he was leaving us and going to <hi>Rome. Fulgentio</hi> the <hi>Venetian</hi> (the boſom-friend of the great Father <hi>Paul,</hi> and his ſuc<g ref="char:EOLhyphen"/>ceſſour in his emploiment in that ſtate) in his common diſcourſe did often expreſs the ſuperlative value, that vaſt eſteem which he had in his breaſt for this Church. And <hi>Hugo Grotius</hi> (that Prodigy of Learning) told our Embaſſadour in <hi>France,</hi> That if he returned ſafe from <hi>Sweden</hi> (which Crown he ſerved then under the Character of Em<g ref="char:EOLhyphen"/>baſſadour) he reſolved to come and ſettle with his Wife and Children in <hi>England,</hi> as
+<pb n="22" facs="tcp:52638:15"/>
+preferring that Church very much before all other of the Reformation. I will allege no more witneſſes, the Judgement of this <hi>Tri<g ref="char:EOLhyphen"/>umvirate</hi> may ſuffice for the Church of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi> In this Church brave <hi>Cavendiſh</hi> fell, and what is more then that, in this Churches quarrel. <hi>Abner</hi> troubled <hi>Iſrael,</hi> though he fell in it; for he made an head, and drew his Sword againſt a King of Gods chooſing: but <hi>Cavendiſh</hi> ſided with ſuch a King, and fought in defence of him and the Church againſt a generation of men, who curſed all them bitterly that came not in to the help of the Lord againſt the Mighty, this was the language of their <hi>Demagogues,</hi> thus it pleaſed them to Chriſtian Rebellion. <hi>O my Soul, enter not thou into their ſecret, unto their Aſſembly be not thou united!</hi>
+            </p>
+            <p>Thus I have compared Colonel <hi>Cavendiſh</hi> with <hi>Abner</hi> a fighting and famous man in <hi>Iſrael,</hi> you ſee how he does equal, how he does exceed him. Peradventure what has been ſaid may have raiſed a generous Am<g ref="char:EOLhyphen"/>bition. If ſo, you that emulate the Name of <hi>Charles Cavendiſh,</hi> imitate his Virtues, then
+<pb n="23" facs="tcp:52638:15"/>
+the Enemies of my Lord the King, and thoſe that riſe up againſt him ſhall do him no harm, ſo long as there is a ſucceſſion of men of this Spirit and Principle to maintain and ſupport Kings and Crowns. That ſuch a Race may never fail do thou grant, who art the King of Kings, to whom we render from the bottom of our hearts in moſt humble manner all Praiſe and Adoration both now, and ever. <hi>Amen, Amen.</hi>
+            </p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
